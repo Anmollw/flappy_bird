@@ -1,2 +1,5 @@
-# flappy_bird
-scripts for flappy bird game (unity)
+# flappy bird game
+
+**This repo contains the scripts for the game**
+
+(not finished)
